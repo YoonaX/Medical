@@ -1,0 +1,27 @@
+{
+    "json_file_name": "F:\\Ask_Information\\肿瘤科\\腹部肿瘤\\其它\\https_$$www.120ask.com$question$60000004.htm.json",
+    "Description": "您好我姥姥今天检查出是胆囊癌中晚期了，请问用什么中草药治疗，还有药的配比量，谢谢大夫了",
+    "Cut_Description": "您好 / 我 / 姥姥 / 今天 / 检查 / 出是 / 胆囊癌 / 中晚期 / 了 / ， / 请问 / 用 / 什么 / 中草药 / 治疗 / ， / 还有 / 药 / 的 / 配比 / 量 / ， / 谢谢 / 大夫 / 了",
+    "Count_Medical_Des": "0",
+    "Word_Medical_Desc": "",
+    "Count_Desease_Des": "0",
+    "Word_Desease_Desc": "",
+    "Reply_Information": [
+        {
+            "Doctor_Reply": "病情分析：你的描述考虑是属于癌症的症状，指导意见：你好，这个问题临床一般建议看中医，建议当地医生指导剂量的啊。网上不指导。 ",
+            "Cut_Doctor_Reply": "病情 / 分析 / ： / 你 / 的 / 描述 / 考虑 / 是 / 属于 / 癌症 / 的 / 症状 / ， / 指导 / 意见 / ： / 你好 / ， / 这个 / 问题 / 临床 / 一般 / 建议 / 看 / 中医 / ， / 建议 / 当地 / 医生 / 指导 / 剂量 / 的 / 啊 / 。 / 网上 / 不 / 指导 / 。 /  ",
+            "Count_Medical_Des": "0",
+            "Word_Medical_Desc": "",
+            "Count_Desease_Des": "0",
+            "Word_Desease_Desc": ""
+        },
+        {
+            "Doctor_Reply": "病情分析：对于胆囊癌中晚期，是需要你给予放化疗治疗的指导意见：你说的中药治疗，是可以在放化疗治疗后期给予使用中草药治疗的",
+            "Cut_Doctor_Reply": "病情 / 分析 / ： / 对于 / 胆囊癌 / 中晚期 / ， / 是 / 需要 / 你 / 给予 / 放化疗 / 治疗 / 的 / 指导 / 意见 / ： / 你 / 说 / 的 / 中药 / 治疗 / ， / 是 / 可以 / 在 / 放化疗 / 治疗 / 后期 / 给予 / 使用 / 中草药 / 治疗 / 的",
+            "Count_Medical_Des": "0",
+            "Word_Medical_Desc": "",
+            "Count_Desease_Des": "0",
+            "Word_Desease_Desc": ""
+        }
+    ]
+}

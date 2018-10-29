@@ -1,0 +1,27 @@
+{
+    "json_file_name": "F:\\Ask_Information\\康复医学科\\脊髓损伤康复\\其它\\https_$$www.120ask.com$question$60009868.htm.json",
+    "Description": "我也用康复灵栓了、第二天肚子痛、已经用二合了、每次都有点痛、",
+    "Cut_Description": "我 / 也 / 用 / 康复 / 灵栓 / 了 / 、 / 第二天 / 肚子痛 / 、 / 已经 / 用 / 二合 / 了 / 、 / 每次 / 都 / 有点痛 / 、",
+    "Count_Medical_Des": "0",
+    "Word_Medical_Desc": "",
+    "Count_Desease_Des": "0",
+    "Word_Desease_Desc": "",
+    "Reply_Information": [
+        {
+            "Doctor_Reply": "你好，很高兴为你解答问题，您说的这种情况考虑是药物刺激导致的，如果特别疼痛，建议您可以换用药物治疗，祝您生活愉快，早日康复！",
+            "Cut_Doctor_Reply": "你好 / ， / 很 / 高兴 / 为 / 你 / 解答 / 问题 / ， / 您 / 说 / 的 / 这种 / 情况 / 考虑 / 是 / 药物 / 刺激 / 导致 / 的 / ， / 如果 / 特别 / 疼痛 / ， / 建议您 / 可以 / 换 / 用 / 药物 / 治疗 / ， / 祝您 / 生活 / 愉快 / ， / 早日康复 / ！",
+            "Count_Medical_Des": "0",
+            "Word_Medical_Desc": "",
+            "Count_Desease_Des": "0",
+            "Word_Desease_Desc": ""
+        },
+        {
+            "Doctor_Reply": "病情分析：充血，就是有炎症，刚好用栓，消炎。疼，指导意见：就不要用，证明你太敏感，去医院，换种药，再用。",
+            "Cut_Doctor_Reply": "病情 / 分析 / ： / 充血 / ， / 就是 / 有 / 炎症 / ， / 刚好 / 用栓 / ， / 消炎 / 。 / 疼 / ， / 指导 / 意见 / ： / 就 / 不要 / 用 / ， / 证明 / 你 / 太 / 敏感 / ， / 去 / 医院 / ， / 换种 / 药 / ， / 再用 / 。",
+            "Count_Medical_Des": "0",
+            "Word_Medical_Desc": "",
+            "Count_Desease_Des": "0",
+            "Word_Desease_Desc": ""
+        }
+    ]
+}

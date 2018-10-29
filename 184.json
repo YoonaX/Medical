@@ -1,0 +1,27 @@
+{
+    "json_file_name": "F:\\Ask_Information\\内科\\神经内科\\癫痫\\https_$$www.120ask.com$question$60001355.htm.json",
+    "Description": "我是做过检查，我成经在上东军都医院看的。也看到北京燕都医院，也在上海武警",
+    "Cut_Description": "我 / 是 / 做 / 过 / 检查 / ， / 我 / 成经 / 在 / 上 / 东军 / 都 / 医院 / 看 / 的 / 。 / 也 / 看到 / 北京 / 燕都 / 医院 / ， / 也 / 在 / 上海 / 武警",
+    "Count_Medical_Des": "0",
+    "Word_Medical_Desc": "",
+    "Count_Desease_Des": "0",
+    "Word_Desease_Desc": "",
+    "Reply_Information": [
+        {
+            "Doctor_Reply": "你好，根据你描述的情况，这可能是，癫痫的局灶性发作。还分为原发性癫痫和继发性癫痫，首先需要排除颅内的病变，可以做个磁共振。原发性癫痫应用抗癫痫药物可以控制症状的。",
+            "Cut_Doctor_Reply": "你好 / ， / 根据 / 你 / 描述 / 的 / 情况 / ， / 这 / 可能 / 是 / ， / 癫痫 / 的 / 局灶性 / 发作 / 。 / 还 / 分为 / 原发性 / 癫痫 / 和 / 继发性 / 癫痫 / ， / 首先 / 需要 / 排除 / 颅内 / 的 / 病变 / ， / 可以 / 做个 / 磁共振 / 。 / 原发性 / 癫痫 / 应用 / 抗癫痫 / 药物 / 可以 / 控制 / 症状 / 的 / 。",
+            "Count_Medical_Des": "0",
+            "Word_Medical_Desc": "",
+            "Count_Desease_Des": "0",
+            "Word_Desease_Desc": ""
+        },
+        {
+            "Doctor_Reply": "病情分析：你好，对于癫痫的病情使用药物需要严格遵医嘱进行才可以，指导意见：一般可以选用抗癫痫药如拉莫三嗪、托吡酯、奥卡西平进行治理，疗效较好。祝您健康",
+            "Cut_Doctor_Reply": "病情 / 分析 / ： / 你好 / ， / 对于 / 癫痫 / 的 / 病情 / 使用 / 药物 / 需要 / 严格 / 遵 / 医嘱 / 进行 / 才 / 可以 / ， / 指导 / 意见 / ： / 一般 / 可以 / 选用 / 抗癫痫 / 药如 / 拉莫 / 三嗪 / 、 / 托吡酯 / 、 / 奥 / 卡西平 / 进行 / 治理 / ， / 疗效 / 较 / 好 / 。 / 祝您健康",
+            "Count_Medical_Des": "0",
+            "Word_Medical_Desc": "",
+            "Count_Desease_Des": "0",
+            "Word_Desease_Desc": ""
+        }
+    ]
+}

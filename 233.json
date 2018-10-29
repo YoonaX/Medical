@@ -1,0 +1,27 @@
+{
+    "json_file_name": "F:\\Ask_Information\\外科\\普外科\\其它\\https_$$www.120ask.com$question$60000141.htm.json",
+    "Description": "淋巴结一定是用手去摸滑滑的吗？那不会滑动的是不'是一定是癌？非常不乐观治不好的吗？",
+    "Cut_Description": "淋巴结 / 一定 / 是 / 用 / 手 / 去 / 摸 / 滑 / 滑 / 的 / 吗 / ？ / 那 / 不会 / 滑动 / 的 / 是 / 不 / ' / 是 / 一定 / 是 / 癌 / ？ / 非常 / 不 / 乐观 / 治不好 / 的 / 吗 / ？",
+    "Count_Medical_Des": "0",
+    "Word_Medical_Desc": "",
+    "Count_Desease_Des": "1",
+    "Word_Desease_Desc": "癌 ",
+    "Reply_Information": [
+        {
+            "Doctor_Reply": "病情分析：你的描述考虑是淋巴结也会的，指导意见：你好，这个问题临床一般建议继续抗生素消炎试试。",
+            "Cut_Doctor_Reply": "病情 / 分析 / ： / 你 / 的 / 描述 / 考虑 / 是 / 淋巴结 / 也 / 会 / 的 / ， / 指导 / 意见 / ： / 你好 / ， / 这个 / 问题 / 临床 / 一般 / 建议 / 继续 / 抗生素 / 消炎 / 试试 / 。",
+            "Count_Medical_Des": "0",
+            "Word_Medical_Desc": "",
+            "Count_Desease_Des": "0",
+            "Word_Desease_Desc": ""
+        },
+        {
+            "Doctor_Reply": "病情分析：要根据具体部位和什么菌引起的炎症,选择相应的抗生素治疗指导意见：。因此需要明确是哪个部位的炎症,是什么炎症。炎症有非特异性和特异性两种,所以没有明确病情,建议就医检查,不要盲目使用药物治疗。",
+            "Cut_Doctor_Reply": "病情 / 分析 / ： / 要 / 根据 / 具体 / 部位 / 和 / 什么 / 菌 / 引起 / 的 / 炎症 / , / 选择 / 相应 / 的 / 抗生素 / 治疗 / 指导 / 意见 / ： / 。 / 因此 / 需要 / 明确 / 是 / 哪个 / 部位 / 的 / 炎症 / , / 是 / 什么 / 炎症 / 。 / 炎症 / 有 / 非 / 特异性 / 和 / 特异性 / 两种 / , / 所以 / 没有 / 明确 / 病情 / , / 建议 / 就医 / 检查 / , / 不要 / 盲目 / 使用 / 药物 / 治疗 / 。",
+            "Count_Medical_Des": "0",
+            "Word_Medical_Desc": "",
+            "Count_Desease_Des": "0",
+            "Word_Desease_Desc": ""
+        }
+    ]
+}
